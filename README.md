@@ -1,2 +1,2 @@
 # SmashingStack
-Smashing Stack in linux 64bit and bypass NX, ASLR, and stack canaries. 
+Smashing Stack in 64bit linux and bypass NX, ASLR, and stack canaries. 
