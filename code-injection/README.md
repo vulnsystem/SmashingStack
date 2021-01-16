@@ -5,3 +5,6 @@ you will use your buffer overflow exploits to inject code into the web server. T
 1. Adapt the shellcode.S to un_link a dedicated file.
 2. inject the code in the buffer and execution stack.
 3. overwrite the saved rip in the frame to injection code.
+
+# Run the serve with exstack
+./clean-env.sh ./zookd-exstack 8080 
